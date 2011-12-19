@@ -13,8 +13,8 @@ reddit is unique in the social news scene in that we have a huge community of de
 Clone or fork [our repository here on github](http://github.com/reddit/reddit).
 
 ### Install reddit
-* For Ubuntu 11.04 (Natty Narwhal) we have an [[automated install script|reddit install script for Ubuntu]]. ***UPDATED***
-* Otherwise, see our [[Install Guide]].
+* For Ubuntu 11.04 (Natty Narwhal) we have an [automated install script|reddit install script for Ubuntu](https://github.com/reddit/reddit/wiki/reddit-install-script-for-Ubuntu). ***UPDATED***
+* Otherwise, see our [Install Guide](https://github.com/reddit/reddit/wiki/Install-guide).
 
 ## Make changes
 ### How-Tos and Tutorials
